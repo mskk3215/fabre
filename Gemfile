@@ -46,5 +46,9 @@ group :development do
   # gem "spring"
 end
 
-
 gem "mysql2"
+gem "bcrypt"
+gem "rack-cors"
+
+gem "devise"
+gem "devise_token_auth"
